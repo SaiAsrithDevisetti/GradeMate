@@ -26,13 +26,3 @@ The developed system requires the following features:
 1. Receive input audio.
 2. Run ML inference models to convert audio to text, check if text matches with curated set of questions and answers, and finally generated output evaluation.
 3. Send back output evaluation and converted text.
-
-## Usage Model and Diagrams (if any)
-
-Fig. 1 shows the overall system architecture for the NLP based assessment system and Fig. 2 shows a simple architecture of the UI/backend flow for the current work.
-
-![( ; v ;) Sorry links are broken](images/DASS-2023-NLP-Audio.png?raw=true)
-<p align="center"> <b> Fig 1. System architecture. </b> </p>
-
-![( ; v ;) Sorry links are broken](images/DASS-2023-NLP-Audio-UI.png?raw=true)
-<p align="center"> <b> Fig 2. UI/backend process flow. </b> </p>
